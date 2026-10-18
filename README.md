@@ -1,6 +1,6 @@
-# InkLink 🎨
+# draw 🎨
 
-InkLink is a responsive, full-screen drawing web application that allows users to create, edit, and download their artwork. Designed for both desktop and mobile devices, this app offers a variety of features, including customizable brush size, color options, undo/redo history, and a shareable image link. This document provides an overview of the app's structure and functionalities for developers.
+draw is a responsive, full-screen drawing web application that allows users to create, edit, and download their artwork. Designed for both desktop and mobile devices, this app offers a variety of features, including customizable brush size, color options, undo/redo history, and a shareable image link. This document provides an overview of the app's structure and functionalities for developers.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,7 +13,7 @@ InkLink is a responsive, full-screen drawing web application that allows users t
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Ali-Cheikh/inklink.git
+    git clone https://github.com/Ali-Cheikh/draw.git
     ```
 2. Install dependencies:
     ```bash
@@ -55,7 +55,7 @@ InkLink is a responsive, full-screen drawing web application that allows users t
 - **CSS**: Styled for responsiveness, especially on mobile, with a collapsible sidebar with **Bootstrap** library.
 - **SweetAlert2**: Integrated for user notifications.
 
-Feel free to extend InkLink with additional features! Contributions are welcome through pull requests.
+Feel free to extend draw with additional features! Contributions are welcome through pull requests.
 
 ## License
 
